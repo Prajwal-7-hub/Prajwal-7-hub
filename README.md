@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prajwal-7-hub
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning B.Tech
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently pursuining Masters
 - 📫 How to reach me instagram(@_prajwal__pradhan_),facebook(Prajwal Pradhan)
 
 <!---
